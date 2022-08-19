@@ -21,6 +21,7 @@ h1{
 button{
     color: white;
     background-color:#3882F6;
+
 }
 
 .middle h2{
@@ -34,6 +35,11 @@ button{
     font-size: 36px;
     font-style: light italic;
     color: #1F2937;
+}
+
+.sign-up{
+    background-color: #3882F6;
+    color: white;
 }
 
 
