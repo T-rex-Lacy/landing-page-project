@@ -23,4 +23,17 @@ button{
     background-color:#3882F6;
 }
 
+.middle h2{
+    font-size: 36px;
+    font-weight: 800;
+    color: #1F2937;
+}
+
+.quote{
+    background-color: #E5E7EB;
+    font-size: 36px;
+    font-style: light italic;
+    color: #1F2937;
+}
+
 
