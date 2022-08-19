@@ -1,0 +1,20 @@
+header{
+    background-color: #1F2937;
+}
+
+header a{
+    font-size: 18px;
+    color: #E5E7EB;
+    text-decoration: none;
+}
+
+h1{
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
+.top-half{ /*needs work still*/
+    font-size: 48px;
+    font-weight: 800;
+}
+
