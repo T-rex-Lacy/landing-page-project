@@ -4,12 +4,16 @@ body{
 
 header ,footer{
     background-color: #1F2937;
+    display: flex;
+    justify-content: space-between;
+    
 }
 
 header a{
     font-size: 18px;
     color: #E5E7EB;
     text-decoration: none;
+
 }
 
 h1{
@@ -20,6 +24,13 @@ h1{
 .top-half{ /*needs work still*/
     font-size: 48px;
     font-weight: 800;
+    background-color: #1F2937;
+}
+
+.top-half h1{
+    font-size: 48px;
+    font-weight: 800;
+    color: #F9FAF8;
 }
 
 button{
