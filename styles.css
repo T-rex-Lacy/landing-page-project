@@ -22,15 +22,20 @@ h1{
 }
 
 .top-half{ /*needs work still*/
-    font-size: 48px;
-    font-weight: 800;
     background-color: #1F2937;
+    margin-top: 15px;
+    padding: 50px;
 }
 
 .top-half h1{
     font-size: 48px;
     font-weight: 800;
     color: #F9FAF8;
+}
+
+.top-half p {
+    font-size: 18px;
+    color: #E5E7EB;
 }
 
 button{
