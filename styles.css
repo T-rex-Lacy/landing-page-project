@@ -25,6 +25,8 @@ h1{
     background-color: #1F2937;
     margin-top: 15px;
     padding: 50px;
+    display: flex;
+    flex-direction: column;
 }
 
 .top-half h1{
